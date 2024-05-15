@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20There!!%22);printf(%22This%2C%20is%20Tarun%2C%20Jain!%22);cout%20%3C%3C%20%22Engineer%2C%20from%20India!!%22&center=true&size=27&width=550">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20There!!%22);printf(%22This%2C%20is%20Tarun%2C%20Jain!%22);cout%20%3C%3C%20%22Programmer%2C%20from%20India!!%22&center=true&size=27&width=550">
   </a>
 </h1>
 </br>
@@ -12,9 +12,9 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
+<br>
 
-### - Machine Learning Aficionado and software engineer from india 
+### - A Passionate Programmer from India 
 
 ### - Currently working on :
 -  Data Structures & Algorithms
