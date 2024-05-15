@@ -6,7 +6,10 @@
 </h1>
 </br>
 
+
+
 # About ME 💬 :
+
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
@@ -22,6 +25,8 @@
 -  Watching Anime
 -  Reading Novels
 -  Travelling
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 ## 🛠️ Tried hands on
@@ -87,9 +92,30 @@
  </div>
  <br><br>
 
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![tarun4632's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarun4632\&theme=dark\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tarun4632&theme=dark)](https://git.io/streak-stats)
+
+</div>
+
+<br><br>
+
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 [![An image of @tarun4632's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tarun4632)](https://holopin.io/@tarun4632)
+
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
 
 <p align="center">
     <a href="https://www.linkedin.com/in/tarun-jain-11195b188/" target="blank"><img align="center" src="assets/linkedin.svg" alt="tarun.jain" height="30" width="30" /></a>
