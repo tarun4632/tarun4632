@@ -92,6 +92,6 @@
 
 
 <p align="center">
-    <a href="linkedin.com/in/tarun-jain-11195b188" target="blank"><img align="center" src="assets/instagram.svg" alt="tarun.jain" height="30" width="30" /></a>
-    <a href="https://www.instagram.com/tarunjain_30/" target="blank"><img align="center" src="assets/instagram.svg" alt="tarun.jain" height="30" width="30" /></a>
+    <a href="linkedin.com/in/tarun-jain-11195b188/" target="blank"><img align="center" src="assets/instagram.svg" alt="tarun.jain" height="30" width="30" /></a>
+    <a href="https://www.instagram.com/tarunjain_30/" target="blank"><img align="center" src="assets/linkedin.svg" alt="tarun.jain" height="30" width="30" /></a>
 </p>
