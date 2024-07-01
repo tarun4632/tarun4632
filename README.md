@@ -22,8 +22,7 @@
 -  OpenCV
 
 ### - Hobbies :
--  Watching Anime
--  Reading Novels
+-  Novels
 -  Travelling
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
